@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "song": "Chris",
+      "artist": "C418",
+      "url": "https://lossless.echomusic.fun/Music/mystery-goo-c418_-_chris.flac"
+    },
+    {
       "song": "Moog City",
       "artist": "C418",
       "url": "https://lossless.echomusic.fun/Music/mystery-goo-c418_-_moog_city.flac"
